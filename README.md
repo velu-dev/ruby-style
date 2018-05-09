@@ -1,8 +1,4 @@
-# Prelude
-
-This guide is derived from the ["The Ruby Style Guide"](https://github.com/bbatsov/ruby-style-guide) by ["Bozhidar Batsov"](https://github.com/bbatsov). It has been modified to resolve ambiguities and incorporate idioms I have found appropriate (cleaner, more readable, less ambiguous) in the course of my career as a Ruby software engineer and architect.
-
-# The Ruby Style Guide
+# Ruby Style Guide
 
 This Ruby style guide defines best practices to ensure that Ruby
 software engineers can write code that can be maintained by other Ruby
